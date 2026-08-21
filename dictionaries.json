@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "_comment": "Offline dictionary catalog read by the Dayfine app (Settings > Dictionary). Each entry is a GitHub Release asset in this repo; the app downloads it to %APPDATA%/dict-tool/dictionaries/<file>, verifies sha256 + row count, then renames it into place. Keep old tags alive: the app pins by url, never by 'latest'.",
+  "dictionaries": [
+    {
+      "id": "en_ko",
+      "source_id": "offline_en_ko",
+      "pair": "en-ko",
+      "name": {
+        "en": "English–Korean",
+        "ko": "영한 사전"
+      },
+      "version": "2026.06.19",
+      "file": "dict_en_ko.sqlite",
+      "size": 202002432,
+      "sha256": "bfb8a2e1e57c0106312d0793d121fd79dc6ac72df16fb1d782d5659f26a46b51",
+      "entries": 152459,
+      "url": "https://github.com/eungshin/dayfine-releases/releases/download/dict-en-ko-2026.06.19/dict_en_ko.sqlite",
+      "license": "CC BY 4.0 — derived from Open English WordNet; Korean glosses by the Dayfine translation pipeline"
+    }
+  ]
+}
