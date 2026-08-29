@@ -17,6 +17,23 @@
       "entries": 152459,
       "url": "https://github.com/eungshin/dayfine-releases/releases/download/dict-en-ko-2026.06.19/dict_en_ko.sqlite",
       "license": "CC BY 4.0 — derived from Open English WordNet; Korean glosses by the Dayfine translation pipeline"
+    },
+    {
+      "id": "en_ja",
+      "source_id": "offline_en_ja",
+      "pair": "en-ja",
+      "name": {
+        "en": "English–Japanese",
+        "ko": "영일 사전",
+        "ja": "英和辞典"
+      },
+      "version": "2026.08.29",
+      "file": "dict_en_ja.sqlite",
+      "size": 102047744,
+      "sha256": "a124608ea2182afc99c02eb5b9701f165b4886065c46cf4ed95027fdfbe793a0",
+      "entries": 152458,
+      "url": "https://github.com/eungshin/dayfine-releases/releases/download/dict-en-ja-2026.08.29/dict_en_ja.sqlite",
+      "license": "CC BY 4.0 — derived from Open English WordNet; Japanese glosses by the Dayfine translation pipeline"
     }
   ]
 }
