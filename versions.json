@@ -1,9 +1,9 @@
 {
-  "latest": "0.3.2",
-  "download_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.2",
-  "notes_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.2",
+  "latest": "0.3.3",
+  "download_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.3",
+  "notes_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.3",
   "critical": false,
-  "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.2/DictTool-Setup-0.3.2.exe",
-  "installer_sha256": "3acb95be307229e6ed17bca36923aae86ccb953e7a93c0817dece04798d996d2",
-  "installer_size": 35194448
+  "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.3/Dayfine-Setup-0.3.3.exe",
+  "installer_sha256": "45421c172950699b220c089d1ab6f90b0ce8f891449dafff95ba75201d1dbb14",
+  "installer_size": 35202104
 }
