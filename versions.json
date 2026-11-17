@@ -1,18 +1,20 @@
 {
-  "latest": "0.3.10",
-  "download_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.10",
-  "notes_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.10",
+  "latest": "0.3.11",
+  "download_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.11",
+  "notes_url": "https://github.com/eungshin/dayfine-releases/releases/tag/v0.3.11",
   "critical": false,
-  "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.10/Dayfine-Setup-0.3.10.exe",
-  "installer_sha256": "c9df504ff4bf8ba45a8188f631d06361d95a62509cabbde123dc6128b1d5e37f",
-  "installer_size": 89800130,
+  "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.11/Dayfine-Setup-0.3.11.exe",
+  "installer_sha256": "e9f030b601f199be314c092b0970269c0808707982ffc62c91597a398d134c32",
+  "installer_size": 89817775,
   "platforms": {
     "windows": {
-      "version": "0.3.10",
-      "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.10/Dayfine-Setup-0.3.10.exe",
-      "installer_sha256": "c9df504ff4bf8ba45a8188f631d06361d95a62509cabbde123dc6128b1d5e37f",
-      "installer_size": 89800130
+      "version": "0.3.11",
+      "installer_url": "https://github.com/eungshin/dayfine-releases/releases/download/v0.3.11/Dayfine-Setup-0.3.11.exe",
+      "installer_sha256": "e9f030b601f199be314c092b0970269c0808707982ffc62c91597a398d134c32",
+      "installer_size": 89817775,
+      "min_version": "0.3.11"
     }
   },
-  "signature": "ed25519:hyQBPONa7RyuMpZr65ZcUw5w3DAQdselzZaDtLulakGVoDnVpaaCxLh6FMV7D0Lbd-isQxnV0pynqc2IMpdZDg"
+  "signature": "ed25519:-_FtrIvAeYcB6wUoTv5D6SN8Hs2aw3F-KAVP-wL03UlQaosTMWc3ejoKrjRImvStZQNpdQvwXcsTq6MkJzZBCQ",
+  "min_version": "0.3.11"
 }
